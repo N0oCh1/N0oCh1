@@ -8,7 +8,7 @@
     <a href="https://github.com/N0oCh1">
       <img src="https://komarev.com/ghpvc/?username=N0oCh1&label=Profile%20views&color=2563eb&style=flat" alt="Profile views" />
     </a>
-    <a href="https://www.linkedin.com/in/ruben-feng/">
+    <a href="https://www.linkedin.com/in/ruben-feng-98339b289/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0a77b6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
@@ -40,7 +40,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=N0oCh1&hide_border=true&theme=tokyonight" alt="Ruben's GitHub streak" />
 </div>
 
-## Community & contributions
+## Community-made visuals
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+ideas+into+digital+experiences;Always+learning%2C+always+creating;Thanks+for+visiting+my+profile!" alt="Animated introduction" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=N0oCh1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Ruben's GitHub trophies" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=N0oCh1&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Ruben's GitHub contribution activity graph" />
@@ -49,7 +57,7 @@
 ## Let's connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ruben-feng/">
+  <a href="https://www.linkedin.com/in/ruben-feng-98339b289/">
     <img src="https://img.shields.io/badge/LinkedIn-Ruben%20Feng-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Ruben on LinkedIn" />
   </a>
   <a href="https://github.com/N0oCh1">
