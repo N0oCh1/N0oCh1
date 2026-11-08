@@ -47,6 +47,14 @@
 </div>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=N0oCh1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Ruben's GitHub trophies" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+ideas+into+digital+experiences;Always+learning%2C+always+creating;Thanks+for+visiting+my+profile!" alt="Animated introduction" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=N0oCh1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="Ruben's GitHub trophies" />
 </div>
 
